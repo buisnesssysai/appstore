@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "englishtrainer",
+      "name": "English Trainer",
+      "version": "1.0.0",
+      "apk_url": "https://raw.githubusercontent.com/buisnesssysai/appstore/main/server/apps/englishtrainer.apk",
+      "icon_url": "https://raw.githubusercontent.com/buisnesssysai/appstore/main/server/images/icons/english_icon.png",
+      "description": "Lerne spielend Englisch mit dieser App!"
+    }
+  ]
+}
