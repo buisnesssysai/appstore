@@ -4,15 +4,15 @@
       "id": "cobralingoo",
       "name": "cobralingoo",
       "version": "1.2.0",
-      "apk_url": "https://github.com/buisnesssysai/appstore/releases/tag/Version_1_2_0",
-      "icon_url": "https://https://raw.githubusercontent.com/buisnesssysai/appstore/refs/heads/main/server/image/icon/d3f10085-6746-41f6-a3be-9ef3b9eabb04.svg",
+      "apk_url": "https://github.com/buisnesssysai/appstore/releases/download/Version_1_2_0/englishtrainer.apk",
+      "icon_url": "https://raw.githubusercontent.com/buisnesssysai/appstore/main/server/image/icon/d3f10085-6746-41f6-a3be-9ef3b9eabb04.png",
       "description": "Meistere Sprachen im Cobra-Tempo. Dein interaktiver English Trainer."
-    }
+    },
     {
       "id": "tradingbot",
       "name": "tradingbot",
       "version": "1.2.0",
-      "apk_url": "https://github.com/buisnesssysai/appstore/releases/tag/tradingbot_v1",
+      "apk_url": "https://github.com/buisnesssysai/appstore/releases/download/tradingbot_v1/tradingbot.apk",
       "icon_url": "",
       "description": "Der Ultimative Trading begleiter."
     }
