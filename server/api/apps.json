@@ -9,12 +9,12 @@
       "description": "Meistere Sprachen im Cobra-Tempo. Dein interaktiver English Trainer."
     }
     {
-      "id": "cobralingoo",
-      "name": "cobralingoo",
+      "id": "tradingbot",
+      "name": "tradingbot",
       "version": "1.2.0",
-      "apk_url": "https://github.com/buisnesssysai/appstore/releases/tag/Version_1_2_0",
-      "icon_url": "https://https://raw.githubusercontent.com/buisnesssysai/appstore/refs/heads/main/server/image/icon/d3f10085-6746-41f6-a3be-9ef3b9eabb04.svg",
-      "description": "Meistere Sprachen im Cobra-Tempo. Dein interaktiver English Trainer."
+      "apk_url": "https://github.com/buisnesssysai/appstore/releases/tag/tradingbot_v1",
+      "icon_url": "",
+      "description": "Der Ultimative Trading begleiter."
     }
   ]
 }
